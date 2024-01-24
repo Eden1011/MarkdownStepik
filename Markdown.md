@@ -30,4 +30,5 @@ Trzeci. Zawiera ~~przekreślony tekst~~.
 def hello_world():
     print(1+1)
     print("Hello, world!")
+```
 ![./cat.jpeg](./cat.jpeg)
